@@ -1,6 +1,5 @@
 # AI USE LOG
 
-<!-- SECB3203 prompt log. Policy: PROPOSED - for approval by the SECB3203 course team before circulation to students. Fill in, then run: python tools/check_ai_log.py AI_USE_LOG.md --assessment <key> -->
 
 - Course: SECB3203
 - Assessment: Lab 5
@@ -56,5 +55,5 @@
 - Prompt: What is the design decisions I used here
 - Output: The AI summarized my code logic into clear sentences, explaining the ValueError policy for zero totals, the use of list comprehensions to avoid side effects, and the efficiency of mathematical subset checking.
 - Verified by: cross-referenced with the actual code written in normalize.py and sequence_utils.py, and checked against the lab sheet instructions.
-- My change: Accepted the refined sentences and incorporated them into the project documentation.
+- My change: Write the design decisions entirely by adding my actual logic for handling empty lists and CPM library sizes.
 - Used in: README.md under the "Design Decisions" section.
